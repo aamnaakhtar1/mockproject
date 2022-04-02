@@ -1,0 +1,5 @@
+js/blog.js
+js/bootstrap.min.js
+js/docs.min.js
+js/holder.min.js
+js/popper.min.js

@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Content-Package-Id: my_packages:MockProject
+Content-Package-Roots: /apps/MockProjectTemplate,/apps/MockProjectCompon
+ ent,/apps/BootcampLibrary
+Content-Package-Type: application
+
